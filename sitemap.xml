@@ -1,12 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://www.apexcse.com/</loc>
+</url>
+<url>
+  <loc>http://www.apexcse.com/blog/</loc>
+</url>
+<url>
+  <loc>http://www.apexcse.com/contact/</loc>
+</url>
+<url>
+  <loc>http://www.apexcse.com/blog-details.html</loc>
+</url>
+<url>
+  <loc>http://www.apexcse.com/index.html</loc>
+</url>
+<url>
+  <loc>http://www.apexcse.com/instructor/</loc>
+</url>
+<url>
+  <loc>http://www.apexcse.com/course/</loc>
+</url>
+<url>
+  <loc>http://www.apexcse.com/terms-conditions/</loc>
+</url>
+<url>
+  <loc>http://www.apexcse.com/privacy-policy/</loc>
+</url>
 </urlset>
